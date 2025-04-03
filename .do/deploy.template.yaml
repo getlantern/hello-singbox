@@ -1,0 +1,8 @@
+spec:
+  name: hello-singbox
+  services:
+    - name: singbox
+      image:
+        registry_type: GHCR
+        registry: sagernet
+        repository: sing-box
