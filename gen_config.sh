@@ -12,7 +12,7 @@ cat <<EOF
     {
       "type": "http",
       "listen": "0.0.0.0",
-      "listen_port": 8080
+      "listen_port": 88080
     }
   ],
   "outbounds": [
